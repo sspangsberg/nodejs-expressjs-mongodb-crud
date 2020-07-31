@@ -13,7 +13,7 @@ app.listen(80, function() {
 
 app.get('/', function(req, res) {
     console.log(__dirname);
-    res.sendFile(__dirname + '/index.html');
+    res.sendFile(__dirname + '/views/index.html');
     //__dirname is current directory your in.
 })
 
