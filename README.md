@@ -1,2 +1,2 @@
 # nodejs-expressjs-mongodb-crud
-CRUD web app 
+NodeJS/ExpressJS/Mongo CRUD web app 
